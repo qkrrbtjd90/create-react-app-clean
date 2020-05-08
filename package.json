@@ -1,7 +1,7 @@
 {
   "name": "clean-react-app",
   "version": "1.0.0",
-  "description": "tic-tac-toe-hooks",
+  "description": "",
   "main": "src/index.js",
   "scripts": {
     "start": "webpack-dev-server --open --port 8080 --compress --mode development",
